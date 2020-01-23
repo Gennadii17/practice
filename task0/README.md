@@ -192,9 +192,12 @@ src
 ```
 
 > Обрати внимание что имя файла *.java должно совпадать с именем самого класса
-> `Main.java` => `class Main`
-> `Test1.java` => `class Test1`
-> `abc.java` => `class abc`
+>
+> `Main.java` => `class Main { ... }`
+>
+> `Test1.java` => `class Test1 { ... }`
+>
+> `abc.java` => `class abc { ... }`
 
 Больше информации тут: [Соглашение о наименованиях](https://www.ibm.com/developerworks/ru/library/ws-tip-namingconv/index.html)
 
